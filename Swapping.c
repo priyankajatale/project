@@ -9,6 +9,7 @@ main()
 	a=b;
 	b=temp;
 	printf("\nAfter Swapping a=%d and b=%d",a,b);
+	printf("\nAfter Swapping a=%d and b=%d",a,b);
 	
 	
 }
