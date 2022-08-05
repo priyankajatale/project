@@ -11,4 +11,5 @@ main()
 	scanf("%d",&r);
 	intrest=p*n*r/100;
 	printf("Your Intrest is %f",intrest);
+	printf("Your Intrest is %f",intrest);
 }
